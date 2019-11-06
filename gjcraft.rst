@@ -49,16 +49,20 @@ Working? Well-crafted?
 .. note::
 
   
-  Suited to the envisioned future of the thing
+  Well-crafted:
+    Suited to the intended and probable future of the thing
 
   - Working:
     
-    - an interresting presentation is the goal, which usually all acomplish
+    - an interresting demo is the goal, which usually all acomplish
+    - even if it doesnt run, it can be presented
+    - 
   
   - Well-crafted:
     
     - some: code is ugly (for some def)
     - others: code is as nice as required (for some def)
+    - tech debt: but you never repay it
    
   What is the definition of Well-Crafted?
   
@@ -70,20 +74,38 @@ Responding to change? Steadily adding value?
 
 .. note::
 
-  Being proactive, Definately a successfactor in GJ
-  Hopefully during the 48 h
-  Usually not after
+  Adding anything after deadline is not required. 
+  Being proactive, successfactor in GJ
+  Forseeing the needs of others, and acting on it
+  Code structure is only one factor than enables this in a project
+  In GJ, team spirit is the deciding factor on this
 
 -----
 
 Individuals and interactions? Community of professionals?
 =========================================================
 
+.. note::
+
+  Trust in team members is important.
+  What is professionalism?
+  Rel. to GJ:
+    
+    - scream when you need something
+    - answer if you can
+
 -----
 
 Customer collaboration? Productive partnerships?
 ================================================
 
+.. note::
+  
+  The other participants want to have fun during your presentation
+  Teams are supposed to help each other, its not a competition
+  You do get to see each others strengths and waknesses
+  You get a lot of experience in forming parnership
+  
 
 -----
 
