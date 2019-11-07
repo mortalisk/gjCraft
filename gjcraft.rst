@@ -6,6 +6,9 @@
 
 -----
 
+:data-x: r0
+:data-y: r1000
+
 GameJam
 =======
  - You form a team
@@ -15,9 +18,9 @@ GameJam
 
 .. note::
 
-  different teams form, 
-  my experience is programmer base, 
-  other teams often have predominance of graphic artists
+  programmer based team, 
+  others might have only one programmer
+  nevertheless, collaboration is important
 
 
 -----
@@ -43,8 +46,18 @@ Software Craftsmanship
 
 -----
 
+
+:data-scale: 0.4
+:data-x: r200
+:data-y: r
+
 Working? Well-crafted?
 ======================
+
+.. raw:: html
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uHjuzZG-Imo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 .. note::
 
@@ -69,6 +82,18 @@ Working? Well-crafted?
 
 -----
 
+
+
+Working? Well-crafted?
+======================
+
+.. code:: java
+
+	if (!onGround && notOnGround())
+		selectAnimation("air");
+		
+-----
+
 Responding to change? Steadily adding value?
 ============================================
 
@@ -81,6 +106,9 @@ Responding to change? Steadily adding value?
   In GJ, team spirit is the deciding factor on this
 
 -----
+
+.. :data-x: 0
+.. :data-y: r1000
 
 Individuals and interactions? Community of professionals?
 =========================================================
@@ -95,6 +123,9 @@ Individuals and interactions? Community of professionals?
     - answer if you can
 
 -----
+
+.. :data-x: r1600
+.. :data-y: r0
 
 Customer collaboration? Productive partnerships?
 ================================================
@@ -111,23 +142,48 @@ Customer collaboration? Productive partnerships?
 
 GameJam Craftsmanship
 =====================
- - Not only hopefully does something
-   - but also completely unmaintainable
- - Not only adding value faster than ...
-   - but also grding to a complete halt after exatly 48 hours
- - Not only a comunity of people who have no idea what they are doing
-   - but also forging friendships and getting to know each other
- - Not only productive and fun
-   - but you will actually learn a lot
+
+-----
+
+Well-craftedness
+================
+
+  - Hopefully does something
+  
+    - realising that "well-crafted" must mean tailored to context and expectations
+
+-----
+
+Adding value
+============
+
+ - Adding value faster than f...
+ 
+   - realising value is born out of enabling ones team-mates
+
+-----
+
+Community of professionals
+==========================
+
+ - A community of people who have no idea what they are doing
+ 
+   - forgetting limitations and support each others strenghts
+
+-----
+
+Productive partnerships
+=======================
+
+  - A desire for forming partnerships
+  
+   - flows from experiences worth remembering
 
 -----
 
 Flying
 ======
-.. code:: java
 
-	if (!onGround && notOnGround())
-		selectAnimation("air");
 
 
 
