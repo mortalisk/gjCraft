@@ -12,11 +12,17 @@
 Game Jame Craftsmanship
 =======================
 
-A programmers experience
+.. class:: center
+
+  A programmers experience
+
+  Morten Bendiksen
 
 .. note::
-  In this presentation, I will talk about what a Game Jam is and how I see it relating to
-  software craftsmanship. This is my perspective after participating in programmer heavy
+  In this presentation, 
+  what a Game Jam is
+  how I see it relating to software craftsmanship. 
+  This is my perspective after participating in programmer heavy
   groups.
 
 -----
@@ -24,17 +30,19 @@ A programmers experience
 Game Jam events
 ===============
 
-.. class:: substep
+.. class:: center
 
-  You form a team
+  .. class:: substep
 
-  A theme is revealed
+    You form a team
 
-  You have limited time (e.g. 48 hours) to make a game
+    A theme is revealed
 
-  You present what you made
+    You have limited time (e.g. 48 hours) to make a game
 
-  Not a competition
+    You present what you made
+
+    Not a competition
 
 
 -----
@@ -258,12 +266,11 @@ Individuals and interactions?
 Individuals and interactions?
 =============================
 
-Trust in team members is important.
-
 .. class:: substep
 
-  - scream when you need something
-  - answer if you can
+  - Trust in team members is important.
+  - Scream when you need something
+  - Answer if you can
 
 -----
 
@@ -272,11 +279,9 @@ Community of professionals?
 
 .. class:: substep
 
-  Supporting each other
-
-  Focusing on strengths
-
-  Working around limitations
+  - Supporting each other
+  - Focusing on strengths
+  - Working around limitations
 
 -----
 
@@ -313,20 +318,17 @@ Software Craftsmanship
 Customer collaboration?
 =======================
 
-Other participants
-
-Organisers
+- Other participants
+- Organisers
 
 -----
 
 Productive partnerships?
 ========================
 
-Help other teams
-
-Learn to use strengths and work around weaknesses to get things done
-
-See new opportunities
+- Help other teams
+- Learn to use strengths and work around weaknesses to get things done
+- See new opportunities
 
 
 .. note::
@@ -382,8 +384,9 @@ GameJam Craftsmanship
 .. note::
   To round off.
   A new interpretation of software craftsmanship
-  Since I'm not 100% sure what software_craftsmanship is,
-  pobably undefined behaviour, but in the context of a game jam, that is often fun.
+  I'm not 100% sure what software_craftsmanship is,
+  pobably undefined behaviour, 
+  but in the context of a game jam, that is often fun.
 
 :data-x: r1600
 :data-y: r0
@@ -431,22 +434,6 @@ Productive partnerships
     .. class:: substep
   
     - but experiences worth remembering is where the desire comes from
-
-.. note::
-
-  You have to get something done. This will involve the ugliest code you will ever write.
-  That is OK. You get a feeling for the extreme end of what is called technical debt.
-  Viktig at det er gøy i starten.
-  Innebærer "dårlig" kode
-  Teknisk "gjeld" bygger seg opp veldig raskt
-  På slutten skjønner ingen koden lengre
-  Planlagt at på slutten skal det være minst mulig forståelig kode
-  Minimalt med "prosess"
-  Live diskusjon i stedet for tasks/issues/tickets
-  Går lynraskt
-  ganske slitsomt
-  i stedet for planlegging, skriking og roping
-  ad hoc grupper former seg innad i teamet
 
 -----
 

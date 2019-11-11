@@ -6,6 +6,10 @@ body {
     font-family: Libre Baskerville;
 }
 
+.center {
+  text-align: center;
+}
+
 p {
     font-weight: normal;
     margin-bottom: 0.3em;
