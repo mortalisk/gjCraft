@@ -448,4 +448,9 @@ Productive partnerships
   i stedet for planlegging, skriking og roping
   ad hoc grupper former seg innad i teamet
 
+-----
+
+Thank You!
+==========
+
 
